@@ -1,0 +1,72 @@
+h1, h2, label, h3, p {
+	text-align: center;
+	color: whitesmoke;
+}
+
+.hey{
+    margin-top: 100px}
+body {
+background: darkred;
+}
+li, p, h2, h1, h4 {
+	color: white;
+}
+
+.directory-buttons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.directory-buttons li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.directory-buttons li a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: darkred;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.directory-buttons li a:hover {
+    background-color: green;
+}
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+img {
+  border-radius: 8px;
+}
+.imgright {
+      float: right;
+    }
+.imgleft{
+    float: left;
+}
+.imgcenter {
+    float: center;
+}
+
+ img {
+  border: 5px solid darkred;
+}
+h4 {
+    text-align: center;
+}
+. {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
